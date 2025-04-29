@@ -6,8 +6,6 @@
 
 A sleek, dark-themed Python application that counts words in paragraphs with a responsive graphical interface.
 
-![Application Screenshot](screenshot.png) *(replace with actual screenshot later)*
-
 ## Features
 
 - ✨ **Modern Dark UI** - Easy-on-the-eyes interface with dark theme

@@ -1,32 +1,43 @@
-# Word Counter Application
+# Word Counter - Tkinter GUI App
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![GUI](https://img.shields.io/badge/GUI-Tkinter-orange.svg)
 
-A sleek, dark-themed Python application that counts words in paragraphs with a responsive graphical interface.
+A modern, dark-themed word counter built with Python and Tkinter. This desktop application helps you quickly analyze text and count words with a sleek and responsive interface.
 
-## Features
+---
 
-- ✨ **Modern Dark UI** - Easy-on-the-eyes interface with dark theme
-- 📝 **Accurate Word Counting** - Handles punctuation, spaces, and special characters
-- 🔄 **Responsive Design** - Adapts to different window sizes
-- 🚀 **Quick Actions** - Clear text with one click using the "Next" button
-- 🎨 **Visual Feedback** - Clean result display with accent colors
+## **Features**
 
-## Installation
+- **Dark Mode Interface** – Elegant and eye-friendly design.
+- **Accurate Word Count** – Handles punctuation, spacing, and special characters intelligently.
+- **Responsive Layout** – Automatically adjusts with window size for a smooth user experience.
+- **Clear Text Button** – Instantly clears text area using the "Next" button.
+- **Stylish Output Display** – Result area highlights count visually using color and formatting.
 
-### Prerequisites
-- Python 3.8 or higher
-- Tkinter (usually comes with Python)
+---
 
-### Quick Start
+## **Screenshots**
+
+*(Insert a screenshot here to show the UI — optional but highly recommended)*
+
+---
+
+## **Installation & Usage**
+
+### **Prerequisites**
+- Python 3.8 or above
+- Tkinter module (comes pre-installed with most Python distributions)
+
+### **Steps to Run**
+
 ```bash
 # Clone the repository
 git clone https://github.com/your-username/word-counter.git
 
-# Navigate to project directory
+# Navigate into the project directory
 cd word-counter
 
 # Run the application
-python word_counter.py 
+python word_counter.py
